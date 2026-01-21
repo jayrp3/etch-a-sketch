@@ -1,0 +1,12 @@
+.square{
+    border: 1px solid black;
+    box-sizing:border-box;
+}
+
+#container{
+    display:flex;
+    width: 80vh;
+    height:80vh;
+    flex-wrap: wrap;
+    margin: 20px auto;
+}
